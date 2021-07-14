@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/591c12c4-9266-4ce2-ad0b-640424daf624/resourceGroups/DefaultResourceGroup-SEA/providers/Microsoft.Web/sites/Weather-App1",
+    "appService.deploySubpath": "."
+}
